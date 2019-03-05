@@ -1,3 +1,0 @@
-/home/abhilesh/Monocular_VO/src/CMakeFiles/edit_cache.dir
-/home/abhilesh/Monocular_VO/src/CMakeFiles/rebuild_cache.dir
-/home/abhilesh/Monocular_VO/src/CMakeFiles/vo.dir
