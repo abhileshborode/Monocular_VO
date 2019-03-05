@@ -1,4 +1,3 @@
-
 Monocular Visual Odometry using optical flow and Fast Feature detector
 
 ## Result On KITTI
@@ -16,6 +15,8 @@ cmake ..
 make
 ./vo
 ```
+## TODO
+Perform graph based Optimization using g2o library
 
 ## References
 [1] (http://avisingh599.github.io/vision/monocular-vo/)
